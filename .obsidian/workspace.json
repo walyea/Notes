@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/things-to-research.md",
+                "file": "School/Robotics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "things-to-research"
+              "title": "Robotics"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -181,5 +182,7 @@
     }
   },
   "active": "665ba825ad6dde01",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Personal/things-to-research.md"
+  ]
 }
