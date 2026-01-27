@@ -1,0 +1,148 @@
+
+- Touch typing thing    
+    - Typing club   
+- Grammar   
+    - Quill  
+- Find job or look at what's is going on for next summer/year research college    
+     - walkable and low smog
+     - Good public transportation 
+     - Cities or suburbs are fine
+- Find 3d print service for robot part or friend   
+    - craftcloud   
+    - Robbins
+    - Options 
+	    - Prusa
+	    - Ender 
+	    - Elegoo
+	    - Creality
+		- Plenty of all 4 on craigslist and Facebook marketplace
+			- Ender and Elegoo are the cheapest with prices between $50-$300
+			- others to are move expensive and are $300+
+		- Depends on what moms says but probably a prusa  
+- search engine
+	- Using google with a extra string added to the the query, that removes ai.
+- Zig book
+	- https://zig.guide/
+	- https://pedropark99.github.io/zig-book/Chapters/01-zig-weird.html
+	- https://ziglang.org/documentation/0.10.1/
+- textbooks/Non-Ficiton
+	- All ready have most textbooks that I would want to read 
+		- Will see what the courses want 
+	- Non-fiction historical books
+		- Why Nations Fail
+		- The Great Divergence
+		- Why the west rules, for now
+		- Cows, pigs, wars, and witches
+		- Salt by mark Kurlansky 
+		- The lever of Riches
+		- The lost Peace
+		- A fragile Relationship
+		- World Order
+		- Global Capitalism
+		- Why Nations Fail
+	- Stephen Hawkins books 
+	- Brain Greenes's Book
+	- Sean Carroll's book
+	- Cosmos
+	- Wonderful Life: The Burgess Shale and the Nature of History
+- Fiction Books
+	- 1632 Series 
+		- 1636: Mission to the Mughals
+		- 1637: The Peacock Throne Sequel to the !636: Mission to the Mughals
+		- 1636: Seas of Fortune
+		- 1637: The Pacific Initiative sequel to the Seas of Fortune 
+		- Ring of Fire 1
+		- 1637: The Coast of Chaos
+	- The Red Mars Trilogy by Kim Stanley Robinson.
+	- The Three Body Problem Trilogy
+	- Agent Pendergast 
+	- Books By Peter May
+	- Books By Steve Berry
+	- The Bound and the Broken
+	- Farsala Trilogy
+- Online Learning/classes
+	- khan academy 
+	- MIT open courseware
+	- Edx
+	- Classes about
+		- Electrical Engineering 
+		- Control Systems 
+		- Engines 
+		- Computers 
+		- Traction and Vehicle Dynamics
+	- [sites](https://www.reddit.com/r/reddit.com/comments/cktxy/reddit_lets_compile_a_list_of_the_best_online/)
+	- https://www.engineeringtoolbox.com/tractive-effort-d_1783.html
+	- https://x-engineer.org/aerodynamic-drag/
+	- Classes for now
+		-
+- f1 idea
+	- Use a offline car simulator or rfactor
+	- Make a break pressure model 
+- how to cut pla
+	- Go slow
+	- secure it 
+	- keep it cool so it does not melt
+	- Step bit to reduce amount of plastic removing 
+- guitar sound
+	- - Jazzy Sound
+	- Neck pickup 
+	- tone 30%-40%
+	- cut out hi and bass 
+	- boost mid
+	- clean setting
+	- [good lnfo](https://www.jazzguitar.be/forum/guitar-amps-gizmos/92550-how-setup-adjust-stratocaster-jazz.html)
+	- no point in changing pickups
+- Linux for PC
+	- Fedora
+		- KDE 
+		- WM
+			- I3
+			- Qtile 
+			- Awesome wm
+			- Sway
+	- Cachyos  
+	- Apps  
+		- Notes linux 
+		- Car simulation stuff
+- Equations
+	- F aerodynamic drag
+		- ![{\displaystyle F_{\rm {d}}\,=\,{\tfrac {1}{2}}\,\rho \,u^{2}\,c_{\rm {d}}\,A}](https://wikimedia.org/api/rest_v1/media/math/render/svg/b63776c0ab191f2a95c3a118f1d206d942f2428b)
+			- Fd = Aerodynamic drag
+			- p is mass density
+				- ratio of mass to volume 
+			- u is the velocity
+			- cd is the drag coefficient 
+			- and A is the reference area
+	- F angular acceleration 
+		- Torque over moment of inertia
+- Voting rights in the constitution 
+	- States issue 
+		- Some states gave rights to non white males but most did not 
+		- Federal laws passed to give these groups rights
+- private conversation laws. 
+	- The law makes clear that providers of communications services, and anyone assisting in the transmission of communications, are bound by law to keep those messages in confidence and not to disclose them to anyone other than the recipient. And the law goes further to prohibit any person from intercepting a private message and then goes even further to prohibit any person who has received or even “become acquainted with the contents . . . or meaning of such communication” from divulging or using that information. Violations of this law carry civil and criminal penalties and give rise to a private right of action by any person whose messages have been unlawfully intercepted or used. Section 605 provides for private messages some of the strongest legal protections in the world, and it was enacted in 1934.
+- Vehicle Dynamics and simulation 
+	- https://students.optimumg.com/product/optimumlap/
+	- openlap
+	- simulink 
+- books
+	- Certain amount of days per loan 
+	- Use ade or get pdf depending on book 
+- Guitar Stand
+	- Cradle Style
+		- Bunch of stuff on sweetwater
+- Projects to contribute to 
+	-  Ngspice
+	- Kicad
+	- SimulIDE
+	- C3-lang
+	- Zig 
+	- LLVM
+	- Ghostty
+	- Simhub
+	- Awesome wm
+	- Stuff i cloned
+	- Find stuff I would like to contribute to by using apps
+- Making my own c based language
+	- modules 
+	- 
