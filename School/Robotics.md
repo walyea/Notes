@@ -22,7 +22,7 @@ Can get artifacts and place them on the robot
 
 Check Dimensions of Robot
 
-
+8.5 x 3
 
 
 
