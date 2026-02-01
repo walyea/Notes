@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Classes for Junior and Senior Year.md",
+                "file": "School/Robotics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classes for Junior and Senior Year"
+              "title": "Robotics"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "School/Classes for Junior and Senior Year.md",
+            "file": "School/Robotics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,5 +170,7 @@
     }
   },
   "active": "5e7911b1e4c11d56",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "School/Classes for Junior and Senior Year.md"
+  ]
 }
