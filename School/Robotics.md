@@ -38,3 +38,12 @@ Check Dimensions of Robot
 		- 6308
 		- 4466
 		- Both seem to have either improved a lot from Ryken Robobowl or are lying about their ability  
+
+
+Questions for akash
+
+1. How did you get sponsors?
+2. How do you deal with freshmen/new members who don't know anything and are distracting
+3. How do you deal with people who are distracting and decrease productivity 
+4. How do you deal with unequal share of work
+5. When do you start designing the robot for the next season
