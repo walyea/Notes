@@ -4,24 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "29435732c900fae0",
+        "id": "63613a29886c85a0",
         "type": "tabs",
         "children": [
           {
-            "id": "ce2422e16d7984b3",
+            "id": "8e0d2e63100cec88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Personal/things-to-research.md",
-                "mode": "source",
-                "source": false
+                "aFile": "School/Robotics.md",
+                "bFile": "School/Robotics.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "things-to-research"
+              "icon": "diff",
+              "title": "Diff: Robotics  (Index)"
+            }
+          },
+          {
+            "id": "7df12b6b6d5f1160",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "School/Robotics.md",
+                "bFile": "School/Robotics.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Robotics  (Working Tree)"
+            }
+          },
+          {
+            "id": "6432b80ccb96edc2",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: data.json  (Working Tree)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,13 +184,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/things-to-research.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of things-to-research"
+              "title": "Outline"
             }
           },
           {
@@ -192,15 +221,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "ce2422e16d7984b3",
+  "active": "6432b80ccb96edc2",
   "lastOpenFiles": [
-    "Untitled.base",
-    "Personal/things-to-research.md",
-    "School/Classes for Junior and Senior Year.md",
+    "untitled folder",
     "School/Robotics.md",
+    "conflict-files-obsidian-git.md",
+    "Personal/things-to-research.md",
+    "Untitled.md",
+    "Untitled.base",
+    "School/Classes for Junior and Senior Year.md",
     "Personal/Goals for this school year.md",
     "Personal/Things to improve in ultimate.md",
-    "MIT HSSP classes.md",
-    "conflict-files-obsidian-git.md"
+    "MIT HSSP classes.md"
   ]
 }
