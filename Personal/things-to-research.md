@@ -29,17 +29,13 @@
 	- All ready have most textbooks that I would want to read 
 		- Will see what the courses want 
 	- Non-fiction historical books
-		- Why Nations Fail
-		- The Great Divergence
+		- Why Nations Fail*
 		- Why the west rules, for now
 		- Cows, pigs, wars, and witches
-		- Salt by mark Kurlansky 
 		- The lever of Riches
-		- The lost Peace
+		- The lost Peace*
 		- A fragile Relationship
-		- World Order
 		- Global Capitalism
-		- Why Nations Fail
 	- Stephen Hawkins books 
 	- Brain Greenes's Book
 	- Sean Carroll's book
@@ -63,7 +59,6 @@
 - Online Learning/classes
 	- khan academy 
 	- MIT open courseware
-	- Edx
 	- Classes about
 		- Electrical Engineering 
 		- Control Systems 
@@ -133,16 +128,22 @@
 		- Bunch of stuff on sweetwater
 - Projects to contribute to 
 	-  Ngspice
-	- Kicad
-	- SimulIDE
 	- C3-lang
-	- Zig 
-	- LLVM
-	- Ghostty
-	- Simhub
-	- Awesome wm
+	- Zig
+	- 
 	- Stuff i cloned
 	- Find stuff I would like to contribute to by using apps
 - Making my own c based language
-	- modules 
-	- 
+	- modules
+- projects 
+	- DO project based learning
+			- Memory allocators
+			- CHIP-8 emulator
+			- Other stuff 
+			
+	- Ngspice
+	- C3-lang
+	- Zig
+	- Git thingy for robotics in Vlang
+	- C extentions
+
