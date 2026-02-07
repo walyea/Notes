@@ -1,0 +1,3 @@
+- Do not need to bring towels or sheets they are provided 
+- Money for food merch etc 
+- Bring protein bars or other source of protein 
