@@ -49,9 +49,24 @@
               "icon": "lucide-file",
               "title": "Robotics"
             }
+          },
+          {
+            "id": "6af08731aa85f04a",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/plugins/obsidian-git/patch",
+                "bFile": ".obsidian/plugins/obsidian-git/patch",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: patch  (Index)"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,13 +199,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Robotics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Robotics"
+              "title": "Outline"
             }
           },
           {
@@ -222,12 +236,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "6432b80ccb96edc2",
+  "active": "6af08731aa85f04a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "School/Robotics.md",
     "Personal/things-to-research.md",
     "untitled folder",
-    "School/Robotics.md",
-    "conflict-files-obsidian-git.md",
     "Untitled.md",
     "Untitled.base",
     "School/Classes for Junior and Senior Year.md",
