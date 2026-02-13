@@ -20,8 +20,24 @@
               "icon": "diff",
               "title": "Diff: patch  (Working Tree)"
             }
+          },
+          {
+            "id": "33b082bee13221f2",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Personal/Bloomington.md",
+                "bFile": "Personal/Bloomington.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Bloomington  (Index)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,13 +209,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8ead26bd238746f",
+  "active": "33b082bee13221f2",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Personal/Bloomington.md",
     "Personal/Brightview.md",
     "School/Robotics.md",
     "Personal/things-to-research.md",
-    "conflict-files-obsidian-git.md",
     "MIT HSSP classes.md",
     "School/Classes for Junior and Senior Year.md",
     "School/Atharva Economics Notes.md",
