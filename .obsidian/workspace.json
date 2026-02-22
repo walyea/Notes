@@ -16,8 +16,24 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "7c9763ea2417b9d0",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace-mobile.json",
+                "bFile": ".obsidian/workspace-mobile.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace-mobile.json  (Index)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,10 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "33b082bee13221f2",
+  "active": "7c9763ea2417b9d0",
   "lastOpenFiles": [
-    "Personal/Bloomington.md",
     "conflict-files-obsidian-git.md",
+    "Personal/Bloomington.md",
     "Personal/Brightview.md",
     "School/Robotics.md",
     "Personal/things-to-research.md",

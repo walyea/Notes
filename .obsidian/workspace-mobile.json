@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Robotics.md",
+                "file": "Personal/things-to-research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Robotics"
+              "title": "things-to-research"
             }
           }
         ]
@@ -170,7 +170,9 @@
   },
   "active": "5e7911b1e4c11d56",
   "lastOpenFiles": [
-    "School/Classes for Junior and Senior Year.md",
-    "School/Robotics.md"
+    "Personal/Bloomington.md",
+    "Untitled.md",
+    "School/Robotics.md",
+    "School/Classes for Junior and Senior Year.md"
   ]
 }
