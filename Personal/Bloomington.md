@@ -3,6 +3,7 @@
 		1. Job
 		2. Dual enrollment with a local college or online classes
 		3. Research opportunities 
+		4. Robotics
 	2. Grammar/spelling/typing/handwriting 
 	3. Spanish
 		1. Conjugation 
