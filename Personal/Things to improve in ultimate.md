@@ -15,4 +15,10 @@
      - Ben Sadok 
      - Defense 
  - Be closer to player that I am defending  
-- Dictating 
+- Dictating l
+
+
+
+acceleration 
+not face guarding
+ho stack
