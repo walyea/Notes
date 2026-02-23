@@ -54,3 +54,13 @@ How to wake up
 Why cussing is bad
 	- Just don't do it very often but doing it occasionally can be good for your health and there is little information about it
 	- There are conflicting reports about whether it is good or bad or other things  
+- Heart Rate
+	- 150 minutes of moderate exercise a week
+	- Currently it is normal 
+	- Lower stress
+	- Improve sleep
+- Meditation 
+	- Before Bed improves sleep
+	- Guided; Need a phone or a device to do it 
+	- Mantra can do it in bed; breath, scan body, and repeat a phrase
+	- Yoga

@@ -1,12 +1,10 @@
 
 - Touch typing thing    
     - Typing club   
+    - Keybr
 - Grammar   
-    - Quill  
-- Find job or look at what's is going on for next summer/year research college    
-     - walkable and low smog
-     - Good public transportation 
-     - Cities or suburbs are fine
+    - Quill 
+	- No Red Ink
 - Find 3d print service for robot part or friend   
     - craftcloud   
     - Robbins
@@ -146,4 +144,5 @@
 	- Zig
 	- Git thingy for robotics in Vlang
 	- C extentions
-
+- Heart Rate
+	- 

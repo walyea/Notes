@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e19bd49a233027d0",
+        "id": "da58035ae737c61a",
         "type": "tabs",
         "children": [
           {
-            "id": "f8ead26bd238746f",
+            "id": "5deb278fe3a5b5bc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "4691aa0b4efe9f89",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "63655338f72b537f",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +161,7 @@
             }
           },
           {
-            "id": "3ba1a9b6d5a24b97",
+            "id": "93f2e1444d365d1b",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -222,28 +189,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63655338f72b537f",
+  "active": "5deb278fe3a5b5bc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Personal/things-to-research.md",
-    "Personal/Work outs.md",
-    "Personal/Bloomington.md",
-    "Drivers Ed/test-answers.md",
-    "Drivers Ed/permit.md",
-    "Drivers Ed/modules.md",
-    "Drivers Ed/Driving.md",
-    "Personal/Brightview.md",
     "School/Robotics.md",
-    "MIT HSSP classes.md",
+    "School/MIT HSSP classes.md",
+    "School/resources.md",
+    "School/particle-physics.md",
+    "Untitled.md",
+    "School/programming languages.md",
+    "School/Mr. Snyder Repair hours.md",
+    "School/EDL.md",
     "School/Classes for Junior and Senior Year.md",
     "School/Atharva Economics Notes.md",
-    "School/EDL.md",
-    "School/Mr. Snyder Repair hours.md",
-    "School/particle-physics.md",
-    "School/programming languages.md",
-    "School/resources.md",
-    "Personal/apps.md",
     "Personal/YCC Notes.md",
-    "School/APs.md"
+    "School/APs.md",
+    "Personal/Work outs.md",
+    "Personal/things-to-research.md",
+    "Personal/Things to improve in ultimate.md",
+    "Personal/Summer 2026.md",
+    "Personal/Moms Notes.md",
+    "Personal/Mike Questions.md",
+    "Personal/Karting In Indy.md",
+    "Personal/Mental and Body Notes.md",
+    "Personal/Goals for this school year.md",
+    "Personal/Dinner.md",
+    "Personal/College Notes.md",
+    "Personal/Brightview.md",
+    "Personal/Bloomington.md",
+    "Personal/apps.md",
+    "Personal/3B17F6E6-ADCF-400D-8E87-A4210F98777E_1_102_o.jpeg"
   ]
 }
