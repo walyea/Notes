@@ -1,6 +1,12 @@
 - Things to Research while there:
 	1. Things for next year/summer
 		1. Job
+<<<<<<< HEAD
+		2. Dual enrollment with a local college or online classes
+		3. Research opportunities 
+		4. Robotics
+=======
+>>>>>>> origin/main
 	2. Grammar/spelling/typing/handwriting 
 		1. Grammar: No Red Ink
 		2. Typing Practice Keybr
