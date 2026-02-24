@@ -1,10 +1,15 @@
 - Sat 
-	- Winter Buda
+	- Stretching
+	- Hip exercises
 - Sun
 	- Frisbee
-		- Carter Bubble and Pickup
+		- Winter League 
 - Mon
-	- Lower Gym
+	- Acceleration
+		- Squats 
+		- Plyo lunges 
+		- Lunges
+		- Biking
 - Tues
 	- Agility
 		- Line hops
@@ -38,7 +43,7 @@
 			- simple, for distance, for time
 		- Burpee
 - Fri
-	- Upper Gym
+	-  Gym
 - Daily
 	- clamshell side planks
 	- pogos

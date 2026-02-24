@@ -136,13 +136,9 @@
 - projects 
 	- DO project based learning
 			- Memory allocators
-			- CHIP-8 emulator
-			- Other stuff 
-			
+			- Other stuff 	
 	- Ngspice
 	- C3-lang
 	- Zig
 	- Git thingy for robotics in Vlang
 	- C extentions
-- Heart Rate
-	- 

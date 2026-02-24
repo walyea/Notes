@@ -64,3 +64,11 @@ Why cussing is bad
 	- Guided; Need a phone or a device to do it 
 	- Mantra can do it in bed; breath, scan body, and repeat a phrase
 	- Yoga
+- running 
+	- Every thing in a line 
+	- Short steps
+	- Swing Arms forward and backwards 
+	- 45 degrees shin angle
+	- Eyes up
+	- Shoulders down and back. not hunched over 
+	- Straight spin  
