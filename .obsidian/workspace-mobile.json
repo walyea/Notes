@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/things-to-research.md",
+                "file": "Personal/Summer 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "things-to-research"
+              "title": "Summer 2026"
             }
           }
         ]
@@ -170,6 +170,8 @@
   },
   "active": "5e7911b1e4c11d56",
   "lastOpenFiles": [
+    "Personal/Things to improve in ultimate.md",
+    "Personal/things-to-research.md",
     "Personal/Bloomington.md",
     "Untitled.md",
     "School/Robotics.md",

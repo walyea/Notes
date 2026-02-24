@@ -26,12 +26,6 @@ Check Dimensions of Robot
 8.5 x 3
 .208 in 
 .523
-<<<<<<< HEAD
-
-
-=======
->>>>>>> origin/main
-
 
 - Robo rally
 	- Top Teams 

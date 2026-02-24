@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 - Things to Research while there:
 	1. Things for next year/summer
 		1. Job
@@ -13,6 +14,9 @@
 	3. Work F1 idea
 		1. Vehicle Dynamics
 	4. Read
+=======
+
+>>>>>>> origin/main
 - Things to pack
 	- 5 shirts 
 	- 2 pants

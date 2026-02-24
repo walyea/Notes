@@ -30,9 +30,24 @@
               "icon": "lucide-file",
               "title": "Bloomington"
             }
+          },
+          {
+            "id": "933f3d4afcb6799a",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: .gitignore  (Index)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c9763ea2417b9d0",
+  "active": "933f3d4afcb6799a",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Personal/Bloomington.md",

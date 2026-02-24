@@ -17,3 +17,4 @@
 	- What classes can you place out of 
 		- Stats v Chem in high school or college
 		  
+Sridhar's advice: make a list of colleges based on location and major and then practice with the team to figure out if you want to go there 
