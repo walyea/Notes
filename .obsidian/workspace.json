@@ -56,9 +56,39 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.12.4"
             }
+          },
+          {
+            "id": "fa16378658fbbc36",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Personal/Summer 2026.md",
+                "bFile": "Personal/Summer 2026.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Summer 2026  (Index)"
+            }
+          },
+          {
+            "id": "13b61d42bf8504a6",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Personal/Summer 2026.md",
+                "bFile": "Personal/Summer 2026.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Summer 2026  (Index)"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -231,8 +261,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a878cb6542581f14",
+  "active": "13b61d42bf8504a6",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Personal/Mental and Body Notes.md",
     "Personal/Things to improve in ultimate.md",
     "Personal/things-to-research.md",
@@ -240,7 +271,6 @@
     "Personal/College Notes.md",
     "Personal/Brightview.md",
     "Personal/Bloomington.md",
-    "conflict-files-obsidian-git.md",
     "School/Robotics.md",
     "MIT HSSP classes.md",
     "School/Classes for Junior and Senior Year.md",
