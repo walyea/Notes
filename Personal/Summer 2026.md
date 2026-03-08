@@ -2,10 +2,9 @@ Precalc at Belmont Hill
 
 
 Somerville Repair Cafe 
-
 Kumon Learning center 
-
+Ace hardware
 Volunteering for Buda
-
-Google Summer of Code
 Tutor Doctor
+Massachusetts Campus Retail Associate (Temp) - Tufts Campus Store
+OOS

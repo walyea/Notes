@@ -13,31 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Bloomington.md",
+                "file": "Personal/Summer 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bloomington"
-            }
-          },
-          {
-            "id": "933f3d4afcb6799a",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: .gitignore  (Index)"
+              "title": "Summer 2026"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,17 +156,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Bloomington.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bloomington"
+              "title": "Outline"
             }
           },
           {
-            "id": "3ba1a9b6d5a24b97",
+            "id": "93f2e1444d365d1b",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -210,24 +193,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "933f3d4afcb6799a",
+  "active": "76f13b7abab0fff8",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Personal/things-to-research.md",
+    "Personal/Summer 2026.md",
+    "Personal/Things to improve in ultimate.md",
+    "Personal/College Notes.md",
     "Personal/Bloomington.md",
+    "Personal/Mental and Body Notes.md",
+    "Personal/Work outs.md",
     "Personal/Brightview.md",
     "School/Robotics.md",
-    "Personal/things-to-research.md",
-    "MIT HSSP classes.md",
+    "School/MIT HSSP classes.md",
+    "School/resources.md",
+    "School/particle-physics.md",
+    "Untitled.md",
+    "School/programming languages.md",
+    "School/Mr. Snyder Repair hours.md",
+    "School/EDL.md",
     "School/Classes for Junior and Senior Year.md",
     "School/Atharva Economics Notes.md",
-    "School/EDL.md",
-    "School/Mr. Snyder Repair hours.md",
-    "School/particle-physics.md",
-    "School/programming languages.md",
-    "School/resources.md",
-    "Personal/apps.md",
     "Personal/YCC Notes.md",
-    "Personal/Work outs.md",
-    "School/APs.md"
+    "School/APs.md",
+    "Personal/Moms Notes.md",
+    "Personal/Mike Questions.md",
+    "Personal/Karting In Indy.md",
+    "Personal/Goals for this school year.md",
+    "Personal/Dinner.md",
+    "Personal/apps.md",
+    "Personal/3B17F6E6-ADCF-400D-8E87-A4210F98777E_1_102_o.jpeg"
   ]
 }

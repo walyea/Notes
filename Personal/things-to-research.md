@@ -54,6 +54,8 @@
 	- Books By Steve Berry
 	- The Bound and the Broken
 	- Farsala Trilogy
+	- Broken Earth trilogy by NK Jemisin
+	- Octavia Butler books
 - Online Learning/classes
 	- khan academy 
 	- MIT open courseware
