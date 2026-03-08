@@ -4,11 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c40b28b521db77b3",
+        "id": "e19bd49a233027d0",
         "type": "tabs",
         "children": [
           {
-            "id": "76f13b7abab0fff8",
+            "id": "33b082bee13221f2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "7c9763ea2417b9d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,19 +35,30 @@
             "id": "933f3d4afcb6799a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Personal/Work outs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore  (Index)"
+              "icon": "lucide-file",
+              "title": "Work outs"
+            }
+          },
+          {
+            "id": "a878cb6542581f14",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,13 +231,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "933f3d4afcb6799a",
+  "active": "a878cb6542581f14",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Personal/Bloomington.md",
-    "Personal/Brightview.md",
-    "School/Robotics.md",
+    "Personal/Mental and Body Notes.md",
+    "Personal/Things to improve in ultimate.md",
     "Personal/things-to-research.md",
+    "Personal/Goals for this school year.md",
+    "Personal/College Notes.md",
+    "Personal/Brightview.md",
+    "Personal/Bloomington.md",
+    "conflict-files-obsidian-git.md",
+    "School/Robotics.md",
     "MIT HSSP classes.md",
     "School/Classes for Junior and Senior Year.md",
     "School/Atharva Economics Notes.md",
