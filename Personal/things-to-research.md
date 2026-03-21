@@ -144,3 +144,7 @@
 	- Zig
 	- Git thingy for robotics in Vlang
 	- C extentions
+- Blog
+	- Hugo
+	- Write in markdown 
+	- Choose theme
