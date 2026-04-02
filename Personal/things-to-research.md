@@ -142,6 +142,7 @@
 	- C3-lang
 	- Zig
 	- 6502
+	- ASM to byte code
 - Blog
 	- Hugo
 	- Write in markdown 
