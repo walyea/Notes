@@ -6,5 +6,23 @@ Kumon Learning center 
 Ace hardware
 Volunteering for Buda
 Tutor Doctor
-OOS
-the book rack
+
+
+Blogging
+Contributing to OOS projects
+Doing my own projects
+ Projects to contribute to 
+	-  Ngspice
+	- C3-lang
+	- Zig
+	- Stuff i cloned
+	- Find stuff I would like to contribute to by using apps
+	- modules
+- projects 
+	- Connect EWI to amp and give it more sound processing capabilites
+	- Engine
+	- RC car
+	- C3-lang
+	- Zig
+	- 6502
+	- ASM to byte code
