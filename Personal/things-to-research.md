@@ -136,11 +136,13 @@
 - Making my own c based language
 	- modules
 - projects 
-	- DO project based learning
-			- Memory allocators
-			- Other stuff 	
-	- Ngspice
+	- Connect EWI to amp and give it more sound processing capabilites
+	- Engine
+	- RC car
 	- C3-lang
 	- Zig
-	- Git thingy for robotics in Vlang
-	- C extentions
+	- 6502
+- Blog
+	- Hugo
+	- Write in markdown 
+	- Choose theme

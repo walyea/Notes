@@ -1,47 +1,16 @@
 - Sat 
-	- Stretching
-	- Hip exercises
+	- Distance Run
 - Sun
-	- Frisbee
-		- Winter League 
+	- Pickup 
+	- Stretch
 - Mon
-	- Acceleration
-		- Squats 
-		- Plyo lunges 
-		- Lunges
-		- Biking
+	- Pumahs
 - Tues
-	- Agility
-		- Line hops
-			- 2 * 25(left, right,both)
-		- Skater Jumps
-			- 2 * 8
-		- Hip flips
-			- 2 * 10
-		- Double skater jumps
-			- 2* 6 each (left, left, right; right, right, left)
-		- Box Drils
-			- In in out out
-			- Two in two out
-			- Single leg lateral 
-			- Perimeter Foot Fire
-			- All 2x25
+	- Sprints
 - Wed
 	- Rest/ Stretching if time
 - Thurs
-	-  - Plyos
-		- Pogos
-			- both legs simple, SL simple, both legs 4 count
-			- Lateral
-		- Jumps
-			- Squat 
-			- Tuck
-		- Broad jumps 
-			- both legs, SL
-		- Skater jumps
-		- Double skater jumps
-			- simple, for distance, for time
-		- Burpee
+	-  Pumahs
 - Fri
 	-  Gym
 - Daily
