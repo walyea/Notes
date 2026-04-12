@@ -19,9 +19,7 @@ Doing my own projects
 	- Find stuff I would like to contribute to by using apps
 	- modules
 - projects 
-	- Connect EWI to amp and give it more sound processing capabilites
 	- Engine
-	- RC car
 	- C3-lang
 	- Zig
 	- 6502
