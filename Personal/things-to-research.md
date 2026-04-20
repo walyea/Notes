@@ -101,7 +101,7 @@
 		- Car simulation stuff
 - Equations
 	- F aerodynamic drag
-		- ![{\displaystyle F_{\rm {d}}\,=\,{\tfrac {1}{2}}\,\rho \,u^{2}\,c_{\rm {d}}\,A}](https://wikimedia.org/api/rest_v1/media/math/render/svg/b63776c0ab191f2a95c3a118f1d206d942f2428b)
+		- ![{\displaystyle F_{\rm {d}}\,=\,{\tfrac {1}{2}}\,\rho \,u^{2}\,c_{\rm {d}}\,A}|148](https://wikimedia.org/api/rest_v1/media/math/render/svg/b63776c0ab191f2a95c3a118f1d206d942f2428b)
 			- Fd = Aerodynamic drag
 			- p is mass density
 				- ratio of mass to volume 
