@@ -1,4 +1,4 @@
-zPrecalc at Belmont Hill
+Precalc at Belmont Hill
 
 
 Somerville Repair Cafe 
@@ -6,8 +6,6 @@ Kumon Learning center 
 Ace hardware
 Volunteering for Buda
 Tutor Doctor
-
-
 Blogging
 Contributing to OOS projects
 Doing my own projects
@@ -24,3 +22,10 @@ Doing my own projects
 	- Zig
 	- 6502
 	- ASM to byte code
+
+Club Teams
+ - Tryouts 
+	 - Wildcard
+	 - MBTA
+	 - Odyssey
+	 - Bag

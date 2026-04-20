@@ -15,6 +15,9 @@ Blog Post Ideas
 	- Java
 - Tech
 - Formula 1
+- Editors/IDEs
+- Music
 250 words minimum 
 1 short post a week target 
 1 long post every two weeks 
+Write in markdown
