@@ -11,8 +11,4 @@
      - Ryan Osgar
      - Ben Sadok 
      - Defense 
-- Be closer to player that I am defending   
-not face guarding
-ho stack
-Pulls: OI blade, 
-Flick Hucks
+-Sideline presence 
