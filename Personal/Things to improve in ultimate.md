@@ -11,6 +11,7 @@
      - Ryan Osgar
      - Ben Sadok 
      - Defense 
+<<<<<<< HEAD
 - Be closer to player that I am defending   
 not face guarding
 ho stack
@@ -20,3 +21,6 @@ Touch on short throws
 
 
 for ai pack in duffle: pillow, sleeping bag, , water toiletries 
+=======
+-Sideline presence 
+>>>>>>> origin/main

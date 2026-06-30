@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/YCC Notes.md",
+                "file": "Personal/Work outs.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YCC Notes"
+              "title": "Work outs"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "5e7911b1e4c11d56",
   "lastOpenFiles": [
+    "Personal/YCC Notes.md",
     "Personal/Work outs.md",
     "Personal/Summer 2026.md",
     "School/Robotic 2026-2027.md",
