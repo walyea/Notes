@@ -1,18 +1,25 @@
 - Sat 
-	- Distance Run
+	- Buda Cut
 - Sun
-	- Pickup 
-	- Stretch
+	- MBTA
+	- Coaching
+	-  Buda Cut
 - Mon
-	- Pumahs
+	-  Stretching (2 min per work on flexibility)
 - Tues
-	- Sprints
+	- Flat Sprints 
+		- 4x(4x40) 
+		- - Shuttle Runs
+			- 30 yards, 40 yards, 60 yards 5 times
+		- 5x15 
 - Wed
-	- Rest/ Stretching if time
+	- MBTA
 - Thurs
-	-  Pumahs
+	- Distance 4 miles
 - Fri
-	-  Gym
+	-  Hill sprints
+		- 5x(5 short, 1 all the way)
+One day of lex scrims hopefully 
 - Daily
 	- clamshell side planks
 	- pogos

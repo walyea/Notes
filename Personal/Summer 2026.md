@@ -1,31 +1,30 @@
 Precalc at Belmont Hill
-
-
-Somerville Repair Cafe 
-Kumon Learning center 
-Ace hardware
 Volunteering for Buda
-Tutor Doctor
+MBTA/Workouts
+Projects 
 Blogging
-Contributing to OOS projects
-Doing my own projects
- Projects to contribute to 
-	-  Ngspice
-	- C3-lang
-	- Zig
-	- Stuff i cloned
-	- Find stuff I would like to contribute to by using apps
-	- modules
-- projects 
-	- Engine
-	- C3-lang
-	- Zig
-	- 6502
-	- ASM to byte code
 
-Club Teams
- - Tryouts 
-	 - Wildcard
-	 - MBTA
-	 - Odyssey
-	 - Bag
+Summer Work
+	APLAC -- Of Mice and Men and another non-fiction book
+	APUSH Read Until Chapter 7 of Textbook
+	AP Phys 2 Packet
+	AP Calc Packet
+	For mom read another book
+
+- projects 
+	- 6502
+	- Annotate binaries
+	- System wide app blocker
+	- Cad converter?
+	- Ultiworld viewer
+	- Guitar Sound Stuff
+	- 3d printer stuff
+	- Make stuff
+	- Robotics
+TODO
+	Set up pi hole
+    Guitar Stand 
+    3d printing queue system
+
+
+

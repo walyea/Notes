@@ -16,3 +16,7 @@ not face guarding
 ho stack
 Pulls: OI blade, 
 Flick Hucks
+Touch on short throws 
+
+
+for ai pack in duffle: pillow, sleeping bag, , water toiletries 

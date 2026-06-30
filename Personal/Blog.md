@@ -21,3 +21,7 @@ Blog Post Ideas
 1 short post a week target 
 1 long post every two weeks 
 Write in markdown
+
+Program
+Take a file written in markdown, convert it to html, add in templete and css, export it, 
+Add post to the home page

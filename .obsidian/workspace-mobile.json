@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Summer 2026.md",
+                "file": "Personal/YCC Notes.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summer 2026"
+              "title": "YCC Notes"
             }
           }
         ]
@@ -170,15 +170,16 @@
   },
   "active": "5e7911b1e4c11d56",
   "lastOpenFiles": [
-    "Personal/Things to improve in ultimate.md",
     "Personal/Work outs.md",
+    "Personal/Summer 2026.md",
+    "School/Robotic 2026-2027.md",
+    "Personal/Things to improve in ultimate.md",
+    "Personal/things-to-research.md",
     "School/Classes for Junior and Senior Year.md",
     "School/EDL.md",
     "School/Mr. Snyder Repair hours.md",
     "School/particle-physics.md",
     "School/Atharva Economics Notes.md",
-    "Personal/Summer 2026.md",
-    "Personal/things-to-research.md",
     "Personal/Bloomington.md",
     "Untitled.md",
     "School/Robotics.md"
