@@ -20,3 +20,7 @@ Chicken, Gnocchi, Broccolini
 		- Another pan gnocchi with the broccolini, garlic, spices, and tomato sauce
 			- Gnocchi 10-15 minutes
 			- Broccolini 3-7 minutes
+- Frittata
+	- Eggs
+	- Onion 
+	- sausage 

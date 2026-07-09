@@ -15,12 +15,8 @@
 - Be closer to player that I am defending   
 not face guarding
 ho stack
-Pulls: OI blade, 
+Pulls: 
+	Oi blade
+	Watch 2016 semi ironside johnny bravo and Malcolm
 Flick Hucks
 Touch on short throws 
-
-
-for ai pack in duffle: pillow, sleeping bag, , water toiletries 
-=======
--Sideline presence 
->>>>>>> origin/main
