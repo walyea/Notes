@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Work outs.md",
+                "file": "Personal/Dinner.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Work outs"
+              "title": "Dinner"
             }
           }
         ]
@@ -170,8 +170,8 @@
   },
   "active": "5e7911b1e4c11d56",
   "lastOpenFiles": [
-    "Personal/YCC Notes.md",
     "Personal/Work outs.md",
+    "Personal/YCC Notes.md",
     "Personal/Summer 2026.md",
     "School/Robotic 2026-2027.md",
     "Personal/Things to improve in ultimate.md",
