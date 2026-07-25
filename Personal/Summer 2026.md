@@ -36,7 +36,6 @@ Shopping
 - Amp?
 - Non ultimate hoodie
 	- https://www.thenorthface.com/en-us/p/mens/mens-jackets-and-vests/mens-softshells-299287/mens-apex-bionic-3-hoodie-NF0A84HS?color=4HH 
-	- https://www.outdoorresearch.com/collections/mens-soft-shells/products/mens-ultima-softshell-hoodie-322408
 	- https://www.rei.com/product/C01058/black-diamond-factor-hoody-mens
 	- https://www.rei.com/product/227569/rei-co-op-flash-hyperstretch-fleece-jacket-mens
 	- https://oldnavy.gap.com/browse/product.do?pid=488674132&vid=1&pcid=1016048&cid=1016048&nav=meganav%3AMen%3AMen%27s+Clothing%3ASweatshirts+%26+Hoodies#pdp-page-content
