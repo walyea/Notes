@@ -14,7 +14,50 @@
 - Questions
 	- Clubs
 	- Access to makerspace and other similar resources
+	- CO-op program like northeastern or cornell
 	- What classes can you place out of 
 		- Stats v Chem in high school or college
-		  
 Sridhar's advice: make a list of colleges based on location and major and then practice with the team to figure out if you want to go there 
+
+
+
+- Cornell 
+	- Housing 
+		- meal swipes and debt currency 
+		- north dorms only  for 1st year- separated from rest of campus by river
+		- ??3 4 year off campus must be on campus first 2years, includes frats
+		- 50% of 3 4 years off campus
+		- grad students off campus convenience stores in each dorm areas
+		- singles doubles quad pre professional frats , not dorms 
+		- other dorms west south
+		- 35% of students study abroad, 40 countries
+		- frats big part of housing- 30% member, fewer live in the frat house 
+		- first years random roommate
+		- some coops housing
+		- convenience stores in each dorm area
+	- Classes
+		- 4 categories of classes not major — 8 total 4 can be major classes 
+		- freshmen may find it difficult to get into the popular elective classes they want to take- but not a problem for required classes
+		- largest lecture hall 1300 
+		- 75% below 30 students 
+		- apply department?- no only college 
+		- can transfer if have taken enough required classes for your major; exception: bowers computer science- start in engineering or arts science, then co-enroll 1 year in bowers - because computing overlaps so many departments
+		- 15 students per writing seminar
+		- cornel case exam- place out of requirement or if 5 on AP- calculus bc covers 2 semesters, into computer science , physics c, chemistry
+		- don't skip linear algebra, stats - they do more than get in high school
+	
+	- Ecs
+		-  research nano research funded by chip companies 
+		- engineering project teams non-engineers also involved 
+		- 1200 clubs 
+		- Can get funding for individual studies/ research 
+		- 18 engineering project teams- drone, car, chip- ?counts as class?
+	- Co-op
+		- engineering paid coop for entire semester- take 5 classes other semesters. amazon apple- semester off - university helps to find job?? how many don't find job?. graduate in 4.5 years. or get coursework masters in 5 years
+	- ![[IMG_5267.heic]]
+	- Other 
+		- see how to prepare in high school in engineering admissions website. also engineering handbook
+		- 3.000 engineering student 
+		- Ithaca 30,000 people
+		- Cornel Total 30,000
+		- bus bike walk. campus very spread out. 2 rivers. many hills. biking seems difficult
