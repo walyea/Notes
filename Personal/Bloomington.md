@@ -1,19 +1,21 @@
 <<<<<<< HEAD
 - Things to Research while there:
 	1. Things for next year/summer
-		1. Job
-		2. Dual enrollment with a local college or online classes
-		3. Research opportunities 
-		4. Robotics
-	2. Grammar/spelling/typing/handwriting 
+		1. Goals for next school year
+		2. Robotics
+	2. Colleges
+	3. App/website blockers
+	4. Grammar/spelling/typing/handwriting 
 		1. Grammar: No Red Ink
 		2. Typing Practice Keybr
-- Things to do:
-	1. Work on Website
-	2. Work on Zig program
-	3. Work F1 idea
-		1. Vehicle Dynamics
-	4. Read
+	5. Things to do:
+		1. Read
+		2. PT
+		3. Math Review
+		4. PSAT Studying
+		5. Phys2 intro letter
+		6. Fix Screen Time
+		7. Practice Guitar
 =======
 
 >>>>>>> origin/main
