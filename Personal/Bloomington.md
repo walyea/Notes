@@ -19,7 +19,7 @@
 >>>>>>> origin/main
 - Things to pack
 	- 5 shirts 
-	- 2 pants
+	- 3 shorts
 	- 5 underware
 	- 6 socks
 	- Toiletries 
@@ -33,15 +33,17 @@
 		- Phone
 		- Watch
 		- Headphones
-	- Lapton
+	- Laptop
 	- Phone
 	- Headphones
 	- Kobo
-	- Parable of the sower
+	- Summer Reading Books
+	- PT stuff
 	- Music stuff
 		- Cable
 		- Irig
 		- Tuner
 		- Pick
 		- Music
-	- Homework?
+	- Pre Calc review 
+	- Pre Calc note card

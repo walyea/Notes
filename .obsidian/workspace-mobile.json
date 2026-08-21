@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/College Notes.md",
+                "file": "Personal/Summer 2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "College Notes"
+              "title": "Summer 2026"
             }
           }
         ]
@@ -172,6 +172,10 @@
   },
   "active": "5e7911b1e4c11d56",
   "lastOpenFiles": [
+    "Personal/Goals for this school year.md",
+    "Personal/Moms Notes.md",
+    "School/resources.md",
+    "Personal/College Notes.md",
     "Personal/Summer 2026.md",
     "Personal/Dinner.md",
     "Personal/Work outs.md",

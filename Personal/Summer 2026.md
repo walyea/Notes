@@ -56,3 +56,8 @@ Shopping
 
 
 
+school supplies 
+.5 lead 
+notebook 
+2 folders 
+eraser 
